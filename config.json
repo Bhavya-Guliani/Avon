@@ -1,5 +1,5 @@
 {
-    "token" : "",
+    "token" : "" || process.env.token,
     "prefix" : "+",
     "color" : "#ff0000",
     "owners" : ["765841266181144596","763992862857494558"],
